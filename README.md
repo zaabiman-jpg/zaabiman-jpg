@@ -25,9 +25,9 @@ AI-powered CV parser and candidate matching platform built with HTML, CSS, JavaS
 
 Node.js API proxy connecting an AI agent to Google Apps Script and Google Sheets while keeping administrative credentials outside the AI configuration.
 
-### SOC Analyst Home Lab
+### [SOC Analyst Home Lab](https://github.com/zaabiman-jpg/soc-analyst-home-lab)
 
-Planned hands-on lab using Wazuh, Windows, Sysmon, Kali Linux, and VirtualBox.
+Building an isolated SOC environment using Wazuh, Windows, Sysmon, Kali Linux, and VirtualBox.
 
 ## 🛠️ Skills
 
